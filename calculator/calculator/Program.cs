@@ -9,6 +9,8 @@
 
             //Console.WriteLine(isValidPass("Angel1234"));
 
+            //countVowelConst("mondongo");
+
             Console.WriteLine("Enter first number");
             num1 = double.Parse(Console.ReadLine());
             Console.WriteLine("Enter second number");
@@ -94,6 +96,30 @@
             { return true; }
 
             return false;  
+        }
+
+        public static void countVowelConst(string text)
+        {
+            int vow = 0;
+            int conts = 0;
+
+            foreach (char ch in text)
+            {
+                if (char.IsLetter(ch))
+                {
+                    if ("aeiou".Contains(ch))
+                    {
+                        vow++;
+                    }
+                    else
+                    {
+                        conts++;
+                    }
+                }
+            }
+
+            Console.WriteLine($"The number of vowel is: {vow}");
+            Console.WriteLine($"The number of constant is: {conts}");
         }
     }
 }

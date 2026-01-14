@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\AP4\\calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A82E7C2-1450-40C7-964E-6284D423A3E6}|calculator\\calculator.csproj|c:\\users\\andre\\onedrive\\escritorio\\ap4\\calculator\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A82E7C2-1450-40C7-964E-6284D423A3E6}|calculator\\calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{054F7CB1-05A9-D89F-46D4-3FD428208C29}|calculator\\calculator.csproj|c:\\users\\andre\\onedrive\\escritorio\\ap4\\calculator\\calculator\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054F7CB1-05A9-D89F-46D4-3FD428208C29}|calculator\\calculator.csproj|solutionrelative:calculator\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054F7CB1-05A9-D89F-46D4-3FD428208C29}|calculator\\calculator.csproj|c:\\users\\andre\\onedrive\\escritorio\\ap4\\calculator\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054F7CB1-05A9-D89F-46D4-3FD428208C29}|calculator\\calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\AP4\\calculator\\calculator\\Class1.cs",
+              "RelativeDocumentMoniker": "calculator\\Class1.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\AP4\\calculator\\calculator\\Class1.cs",
+              "RelativeToolTip": "calculator\\Class1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T14:16:28.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\AP4\\calculator\\calculator\\Program.cs",
               "RelativeDocumentMoniker": "calculator\\Program.cs",
-              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\AP4\\calculator\\calculator\\Program.cs*",
-              "RelativeToolTip": "calculator\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAkAAAA4AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\AP4\\calculator\\calculator\\Program.cs",
+              "RelativeToolTip": "calculator\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T13:22:11.691Z",
               "EditorCaption": ""
