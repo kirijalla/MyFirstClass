@@ -1,7 +1,7 @@
 ﻿namespace calculator
 {
     internal class Program
-    {
+    {//perukistan
         static void Main(string[] args)
         {
             int choice;
